@@ -1,0 +1,11 @@
+{
+  "name": "xero-apps-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rheajt/xero-apps-script.git",
+  "author": "jordan rhea <rheajt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.47"
+  }
+}
